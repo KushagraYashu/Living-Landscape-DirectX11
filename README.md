@@ -6,7 +6,8 @@ Student Number: 2400020\
 Project Name: Living Landscape: A Dynamic Terrain Simulation with a Day-Night Cycle
 
 ## Issues: 
-Launching "release" build out of the box from visual studio will fail since .CSO files will not be present. First launch in "debug" mode to generate CSO and then release will work just fine.
+- Launching "release" build out of the box from visual studio will fail since .CSO files will not be present. First launch in "debug" mode to generate CSO and then release will work just fine.
+- To run the project from Visual Studio or any other IDE, some library files are needed which can be fetched using the `GetLibraries.bat` file. It can be found inside the `Coursework` folder. Path: `main/Coursework/GetLibraries.bat`
 
 ## Project Description:
 Living Landscape is a real-time 3D simulation showcasing a dynamic terrain influenced by height mapping and tessellation, integrated with a realistic day-night cycle. This project demonstrates advanced rendering techniques using DirectX.
