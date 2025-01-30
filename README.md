@@ -1,4 +1,4 @@
-### This repository is a duplicate of the original repository (https://github.com/Abertay-University-SDI/cmp301_coursework-KushagraYashu), the original repository can not be shared since its not owned by me.
+##### This repository is a duplicate of the original repository (https://github.com/Abertay-University-SDI/cmp301_coursework-KushagraYashu), the original repository can not be shared since its not owned by me.
 
 # CMP502 Programming for Games, Coursework Repository
 Name: Kushagra\
